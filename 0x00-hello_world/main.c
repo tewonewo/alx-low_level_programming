@@ -1,3 +1,17 @@
+<<<<<<< HEAD
+#include <stdio.h>
+
+/**
+* main - entry point
+* 
+* Return: Always 0 (Success)
+*/
+int main(void)
+{
+	return (0);
+}
+
+=======
 #!/bin/bash 
 # Simply a wrapper script to keep you from having to use betty-style 
 # and betty-doc separately on every item. 
@@ -18,3 +32,4 @@ for argument in "$@" ; do
     ${BIN_PATH}/${BETTY_STYLE} "$argument" 
     ${BIN_PATH}/${BETTY_DOC} "$argument" 
 done
+>>>>>>> 53ce884b56513bf7c3ba4031b5a622c477d15fd3
