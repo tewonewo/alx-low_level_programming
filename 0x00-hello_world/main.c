@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+#!/bin/bash
 #include <stdio.h>
 
 /**
